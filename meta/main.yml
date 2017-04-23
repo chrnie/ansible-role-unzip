@@ -1,4 +1,5 @@
 ---
+dependencies: []
 galaxy_info:
   author: Christoph Niemann
   description: An Ansible role for installing unzip.
@@ -24,6 +25,5 @@ galaxy_info:
     - name: Archlinux
       versions:
       - all
-  categories:
-  - system
-dependencies: []
+  galaxy_tags:
+    - system
