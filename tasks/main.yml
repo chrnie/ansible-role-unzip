@@ -2,4 +2,4 @@
 - name: install unzip 
   package:
     name: unzip
-    state: {{ unzip_state }}
+    state: "{{ unzip_state }}"
