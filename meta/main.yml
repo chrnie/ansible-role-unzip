@@ -1,0 +1,29 @@
+---
+galaxy_info:
+  author: Christoph Niemann
+  description: An Ansible role for installing unzip.
+  company: -
+  license: BSD
+  min_ansible_version: 2.0
+  platforms:
+    - name: EL
+      versions:
+      - all
+    - name: Debian
+      versions:
+      - all
+    - name: Ubuntu
+      versions:
+      - all
+    - name: FreeBSD
+      versions:
+      - all
+    - name: Suse
+      versions:
+      - all
+    - name: Archlinux
+      versions:
+      - all
+  categories:
+  - system
+dependencies: []
